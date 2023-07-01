@@ -1,4 +1,6 @@
-# PlanetSide Community Discord Resource
+# PlanetSide Community Discord Resources
+
+https://discord.com/servers/planetside-2-community-251073753759481856
 
 We automate a **lot** of the PlanetSide 2 Community Discord. Here's where most of that automation lives! :)
 
